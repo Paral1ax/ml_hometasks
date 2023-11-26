@@ -1,2 +1,2 @@
-# ml_hometasks
+# ml hometasks
 Homework HSE ml projects
