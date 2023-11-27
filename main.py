@@ -1,4 +1,6 @@
 # This is a sample Python script.
+import pip
+pip.main(['install', 'fastapi', 'pydantic'])
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
@@ -29,7 +31,7 @@ class Items(BaseModel):
 
 @app.post("/predict_item")
 def predict_item(item: Item) -> float:
-    return grid_train.predict(item)
+    return ...
 
 
 @app.post("/predict_items")
@@ -39,6 +41,4 @@ def predict_items(items: List[Item]) -> List[float]:
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    pass

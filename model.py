@@ -1,8 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import random
-import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
 from sklearn.linear_model import Ridge
@@ -49,8 +46,7 @@ def preprocessing_df(df_train, y_train):
     df_train[['seats', 'engine']] = df_train[['seats', 'engine']].astype(int)
 
     X_train_cat = df_train.drop(['name', 'selling_price'], axis=1)
-    x_train_dummies = pd.get_dummies(X_train_cat, columns=['fuel', 'seller_type', 'transmission', 'owner', 'seats'],
-                                     drop_first=True)
+    x_train_dummies = pd.get_dummies(X_train_cat, columns=['fuel', 'seller_type', 'transmission', 'owner', 'seats'])
 
     # x_test_dummies.insert(17,'seats_4', 0)
     # x_test_dummies[['seats_10', 'seats_14']] = 0

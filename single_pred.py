@@ -1,8 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import random
-import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
 from sklearn.linear_model import Ridge
@@ -11,24 +8,15 @@ from sklearn.preprocessing import PolynomialFeatures
 from main import Item
 from model import update_features
 
-
-def preprocessing_df(df, column_names):
-    df[['mileage', 'engine', 'max_power', 'torque', 'max_torque_rpm']] = update_features(df)
-
-    df[['seats', 'engine']] = df[['seats', 'engine']].astype(int)
-
-    x_cat = df.drop(['name'], axis=1)
-    x_dummies = pd.get_dummies(x_cat, columns=['fuel', 'seller_type', 'transmission', 'owner'],
-                               drop_first=True)
+df_scaler = StandardScaler()
 
 
-    df_scaler = StandardScaler()
-
-    x_dummies = pd.DataFrame(df_scaler.fit_transform(x_dummies),
-                             index=x_dummies.index, columns=x_dummies.columns)
-
-    return x_dummies
-
+def preprocessing_df(item, fit_df):
+    df = pd.DataFrame([vars(f) for f in [item]], columns=[fit_df.columns])
+    df = df.fillna(0)
+    features = ['seats_' + str(int(item.seats)), 'fuel_' + item.fuel, 'seller_type_' + item.seller_type,
+                'transmission_' + item.transmission, 'owner_' + item.owner]
+    df[features] = 1
 
 def transform_single_obj(item: Item):
     df_object = pd.DataFrame(item)
