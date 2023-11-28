@@ -1,7 +1,7 @@
 # ml_hometasks
 ДЗ №1
 
-Файл с ноутбуком называется *HW1_Regression_with_inference (1)*\
+Файл с ноутбуком называется *HW1_Regression_with_inference (1)*
 
 Что было сделано:
 1. Сначала выборка была преобразована с помощью OneHotEncoder и в ноутбуке и в файле .py (Данные преобразования находятся в файле *transformer.pkl*)
