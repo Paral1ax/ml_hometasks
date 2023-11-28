@@ -1,0 +1,42 @@
+2023-11-28 20:58:10,162 Train data successfully parsed
+2023-11-28 20:58:10,316 Train data successfully transformed w OneHotEncoder
+2023-11-28 20:58:10,322 Train data successfully scaled w StandardScaler
+2023-11-28 20:58:10,325 transformer.pkl successfully downloaded
+2023-11-28 20:58:10,325 scale.pkl successfully downloaded
+2023-11-28 20:58:10,337 Train data successfully transformed w PolynomialFeatures
+2023-11-28 20:58:16,599 Ridge model successfully trained
+2023-11-28 20:58:16,600 model.pkl successfully downloaded
+2023-11-28 20:59:51,803 CSV prediction started
+2023-11-28 20:59:51,837 Train data successfully transformed w PolynomialFeatures
+2023-11-28 20:59:51,853 CSV prediction successfully completed
+2023-11-28 21:02:44,561 Train data successfully parsed
+2023-11-28 21:02:44,706 Train data successfully transformed w OneHotEncoder
+2023-11-28 21:02:44,713 Train data successfully scaled w StandardScaler
+2023-11-28 21:02:44,716 transformer.pkl successfully downloaded
+2023-11-28 21:02:44,717 scale.pkl successfully downloaded
+2023-11-28 21:02:44,731 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:02:50,911 Ridge model successfully trained
+2023-11-28 21:02:50,913 model.pkl successfully downloaded
+2023-11-28 21:03:48,270 CSV prediction started
+2023-11-28 21:03:48,304 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:03:48,313 CSV prediction successfully completed
+2023-11-28 21:04:01,194 CSV prediction started
+2023-11-28 21:04:01,223 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:04:01,224 CSV prediction successfully completed
+2023-11-28 21:05:27,372 CSV prediction started
+2023-11-28 21:05:27,397 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:05:27,398 CSV prediction successfully completed
+2023-11-28 21:05:44,499 CSV prediction started
+2023-11-28 21:05:44,521 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:05:44,522 CSV prediction successfully completed
+2023-11-28 21:07:14,606 Train data successfully parsed
+2023-11-28 21:07:14,770 Train data successfully transformed w OneHotEncoder
+2023-11-28 21:07:14,776 Train data successfully scaled w StandardScaler
+2023-11-28 21:07:14,779 transformer.pkl successfully downloaded
+2023-11-28 21:07:14,780 scale.pkl successfully downloaded
+2023-11-28 21:07:14,801 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:07:20,936 Ridge model successfully trained
+2023-11-28 21:07:20,938 model.pkl successfully downloaded
+2023-11-28 21:07:29,952 CSV prediction started
+2023-11-28 21:07:29,980 Train data successfully transformed w PolynomialFeatures
+2023-11-28 21:07:29,990 CSV prediction successfully completed
