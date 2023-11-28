@@ -18,7 +18,7 @@
 
 В файле *model.py* находится код для предобработки и обучения модели\
 **Модель обучается при старте сервиса.**\
-После этого все приходящие объекты обучаются на весах, которые приходят из файла *model.pkl*\
+После этого все приходящие объекты обучаются на весах, которые приходят из файла *model.pkl*
 
 **Работа с получаемыми объектами**\
 Работа с объектами находится в файле *single_pred.py*\
@@ -43,35 +43,35 @@
     "max_power":"82.85 bhp",\
     "torque":"90Nm@ 3500rpm",\
     "seats":5.0\
-},
-{
-    "name":"BBB", 
-    "year":2020, 
-    "km_driven":210000, 
-    "fuel":"Diesel", 
-    "seller_type":"Individual", 
-    "transmission":"Manual", 
-    "owner":"First Owner", 
-    "mileage":"22.5 kmpl",
-    "engine":"1000 CC", 
-    "max_power":"82.85 bhp", 
-    "torque":"90Nm@ 3500rpm",
-    "seats": 5.0
-},
-{
-    "name":"CCC", 
-    "year":2015, 
-    "km_driven":15000, 
-    "fuel":"Diesel", 
-    "seller_type":"Dealer", 
-    "transmission":"Automatic", 
-    "owner":"First Owner", 
-    "mileage":"22.5 kmpl",
-    "engine":"1000 CC", 
-    "max_power":"82.85 bhp", 
-    "torque":"90Nm@ 3500rpm",
-    "seats": 5.0
-}]
+},\
+{\
+    "name":"BBB",\
+    "year":2020,\
+    "km_driven":210000,\
+    "fuel":"Diesel",\
+    "seller_type":"Individual",\
+    "transmission":"Manual",\
+    "owner":"First Owner",\
+    "mileage":"22.5 kmpl",\
+    "engine":"1000 CC",\
+    "max_power":"82.85 bhp",\
+    "torque":"90Nm@ 3500rpm",\
+    "seats": 5.0\
+},\
+{\
+    "name":"CCC",\
+    "year":2015,\
+    "km_driven":15000,\
+    "fuel":"Diesel",\
+    "seller_type":"Dealer",\
+    "transmission":"Automatic",\
+    "owner":"First Owner",\
+    "mileage":"22.5 kmpl",\
+    "engine":"1000 CC",\
+    "max_power":"82.85 bhp",\
+    "torque":"90Nm@ 3500rpm",\
+    "seats": 5.0\
+}]\
 Выходные данные: \
 [
     24214.198621585616,
