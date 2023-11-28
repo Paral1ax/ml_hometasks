@@ -40,3 +40,32 @@
 2023-11-28 21:07:29,952 CSV prediction started
 2023-11-28 21:07:29,980 Train data successfully transformed w PolynomialFeatures
 2023-11-28 21:07:29,990 CSV prediction successfully completed
+2023-11-28 22:23:56,590 Train data successfully parsed
+2023-11-28 22:23:56,738 Train data successfully transformed w OneHotEncoder
+2023-11-28 22:23:56,745 Train data successfully scaled w StandardScaler
+2023-11-28 22:23:56,749 transformer.pkl successfully downloaded
+2023-11-28 22:23:56,751 scale.pkl successfully downloaded
+2023-11-28 22:23:56,768 Train data successfully transformed w PolynomialFeatures
+2023-11-28 22:24:03,061 Ridge model successfully trained
+2023-11-28 22:24:03,062 model.pkl successfully downloaded
+2023-11-28 22:25:23,310 CSV prediction started
+2023-11-28 22:25:23,349 Train data successfully transformed w PolynomialFeatures
+2023-11-28 22:25:23,460 CSV prediction successfully completed
+2023-11-28 22:25:44,848 CSV prediction started
+2023-11-28 22:25:44,875 Train data successfully transformed w PolynomialFeatures
+2023-11-28 22:25:44,876 CSV prediction successfully completed
+2023-11-28 22:28:21,229 CSV prediction started
+2023-11-28 22:28:21,259 Train data successfully transformed w PolynomialFeatures
+2023-11-28 22:28:21,260 CSV prediction successfully completed
+2023-11-28 23:05:53,740 CSV prediction started
+2023-11-28 23:05:53,852 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:05:53,857 CSV prediction successfully completed
+2023-11-28 23:11:50,587 Single item prediction started
+2023-11-28 23:11:50,629 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:11:50,633 Single item prediction successfully completed
+2023-11-28 23:12:08,391 Single item prediction started
+2023-11-28 23:12:08,418 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:12:08,420 Single item prediction successfully completed
+2023-11-28 23:13:08,467 CSV prediction started
+2023-11-28 23:13:08,496 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:13:08,498 CSV prediction successfully completed
