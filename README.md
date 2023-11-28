@@ -96,11 +96,11 @@
     "seats":5.0\
 }\
 Выходные данные:\
-193593.49411537085\
+193593.49411537085
 
 **Скрины**\
-![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/f53b7cc3-f47a-4433-9a15-32ca28514459)\
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/f53b7cc3-f47a-4433-9a15-32ca28514459)
 
-![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/03f238cc-1bd2-419b-9ce4-520add4699a2)\
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/03f238cc-1bd2-419b-9ce4-520add4699a2)
 
 
