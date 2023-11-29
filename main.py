@@ -4,10 +4,10 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
-
+from fastapi import File, UploadFile
 from model import full_transform_fitting_process
-from single_pred import item_predict, items_predict
-
+from single_pred import item_predict, items_predict, csv_precit
+from fastapi.responses import JSONResponse
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -62,3 +62,15 @@ def predict_item(item: Single_item) -> float:
 @app.post("/predict_items")
 def predict_items(items: List[Csv_items]) -> List[float]:
     return items_predict(items)
+
+@app.post("/upload")
+def upload(file: UploadFile = File(...)):
+    try:
+        df = csv_precit(file.file)
+        f = df.to_json(orient="index")
+        return JSONResponse(content=f)
+    except Exception:
+        return {}
+    finally:
+        file.file.close()
+

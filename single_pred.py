@@ -11,6 +11,7 @@ def preprocessing_df(df):
         transformer = load(open('transformer.pkl', 'rb'))
         df_scaler = load(open('scale.pkl', 'rb'))
         df[['mileage', 'engine', 'max_power', 'torque', 'max_torque_rpm']] = update_features(df)
+        df = df.dropna()
         df[['seats', 'engine']] = df[['seats', 'engine']].astype(int)
         if 'selling_price' in df.columns:
             df = df.drop(['name', 'selling_price'], axis=1)
@@ -22,8 +23,8 @@ def preprocessing_df(df):
                                  index=df_transformed.index, columns=df_transformed.columns)
         df_poly = convert_poly_features(df_scaled)
         return df_poly
-    except ResponseValidationError | ValidationError as exc:
-        print(repr(exc.errors()[0]['type']))
+    except Exception as exc:
+        log.error(exc)
 
 
 def item_predict(item):
@@ -47,5 +48,21 @@ def items_predict(items):
         log.info("CSV prediction successfully completed")
         pred = load_model.predict(df)
         return pred
+    except Exception as e:
+        log.error(e)
+
+
+def csv_precit(file):
+    logging.info("CSV prediction started")
+    try:
+        df_base = pd.read_csv(file)
+        df_base = df_base.dropna()
+        df = df_base.copy()
+        df = preprocessing_df(df)
+        load_model = load(open('model.pkl', 'rb'))
+        log.info("CSV prediction successfully completed")
+        pred = load_model.predict(df)
+        df_base['selling_price'] = pred
+        return df_base
     except Exception as e:
         log.error(e)

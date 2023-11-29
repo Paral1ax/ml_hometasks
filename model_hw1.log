@@ -69,3 +69,896 @@
 2023-11-28 23:13:08,467 CSV prediction started
 2023-11-28 23:13:08,496 Train data successfully transformed w PolynomialFeatures
 2023-11-28 23:13:08,498 CSV prediction successfully completed
+2023-11-28 23:38:46,581 Train data successfully parsed
+2023-11-28 23:38:46,710 Train data successfully transformed w OneHotEncoder
+2023-11-28 23:38:46,717 Train data successfully scaled w StandardScaler
+2023-11-28 23:38:46,721 transformer.pkl successfully downloaded
+2023-11-28 23:38:46,722 scale.pkl successfully downloaded
+2023-11-28 23:38:46,734 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:38:52,909 Ridge model successfully trained
+2023-11-28 23:38:52,910 model.pkl successfully downloaded
+2023-11-28 23:39:04,782 CSV prediction started
+2023-11-28 23:39:04,816 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:39:04,827 CSV prediction successfully completed
+2023-11-28 23:39:09,787 Single item prediction started
+2023-11-28 23:39:09,812 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:39:09,812 Single item prediction successfully completed
+2023-11-28 23:44:38,609 Single item prediction started
+2023-11-28 23:44:38,636 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:44:38,637 Single item prediction successfully completed
+2023-11-28 23:44:48,462 Single item prediction started
+2023-11-28 23:44:48,495 Train data successfully transformed w PolynomialFeatures
+2023-11-28 23:44:48,496 Single item prediction successfully completed
+2023-11-29 20:25:32,576 Train data successfully parsed
+2023-11-29 20:25:32,750 Train data successfully transformed w OneHotEncoder
+2023-11-29 20:25:32,759 Train data successfully scaled w StandardScaler
+2023-11-29 20:25:32,763 transformer.pkl successfully downloaded
+2023-11-29 20:25:32,763 scale.pkl successfully downloaded
+2023-11-29 20:25:32,775 Train data successfully transformed w PolynomialFeatures
+2023-11-29 20:25:38,745 Ridge model successfully trained
+2023-11-29 20:25:38,746 model.pkl successfully downloaded
+2023-11-29 20:46:44,635 Train data successfully parsed
+2023-11-29 20:46:44,733 Train data successfully transformed w OneHotEncoder
+2023-11-29 20:46:44,739 Train data successfully scaled w StandardScaler
+2023-11-29 20:46:44,742 transformer.pkl successfully downloaded
+2023-11-29 20:46:44,743 scale.pkl successfully downloaded
+2023-11-29 20:46:44,752 Train data successfully transformed w PolynomialFeatures
+2023-11-29 20:46:49,383 Ridge model successfully trained
+2023-11-29 20:46:49,386 model.pkl successfully downloaded
+2023-11-29 20:57:44,383 Single item prediction started
+2023-11-29 20:57:44,407 "None of [Index(['mileage', 'engine', 'max_power'], dtype='object')] are in the [columns]"
+2023-11-29 21:04:33,708 Train data successfully parsed
+2023-11-29 21:04:33,792 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:04:33,797 Train data successfully scaled w StandardScaler
+2023-11-29 21:04:33,799 transformer.pkl successfully downloaded
+2023-11-29 21:04:33,800 scale.pkl successfully downloaded
+2023-11-29 21:04:33,808 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:04:37,837 Ridge model successfully trained
+2023-11-29 21:04:37,838 model.pkl successfully downloaded
+2023-11-29 21:04:43,655 Single item prediction started
+2023-11-29 21:04:43,658 "None of [Index(['mileage', 'engine', 'max_power'], dtype='object')] are in the [columns]"
+2023-11-29 21:05:53,832 Train data successfully parsed
+2023-11-29 21:05:53,957 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:05:53,962 Train data successfully scaled w StandardScaler
+2023-11-29 21:05:53,966 transformer.pkl successfully downloaded
+2023-11-29 21:05:53,967 scale.pkl successfully downloaded
+2023-11-29 21:05:53,975 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:05:58,497 Ridge model successfully trained
+2023-11-29 21:05:58,498 model.pkl successfully downloaded
+2023-11-29 21:06:11,098 Single item prediction started
+2023-11-29 21:06:35,422 Train data successfully parsed
+2023-11-29 21:06:35,514 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:06:35,519 Train data successfully scaled w StandardScaler
+2023-11-29 21:06:35,521 transformer.pkl successfully downloaded
+2023-11-29 21:06:35,521 scale.pkl successfully downloaded
+2023-11-29 21:06:35,530 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:06:40,170 Ridge model successfully trained
+2023-11-29 21:06:40,171 model.pkl successfully downloaded
+2023-11-29 21:06:44,768 Single item prediction started
+2023-11-29 21:09:52,415 Train data successfully parsed
+2023-11-29 21:09:52,509 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:09:52,514 Train data successfully scaled w StandardScaler
+2023-11-29 21:09:52,516 transformer.pkl successfully downloaded
+2023-11-29 21:09:52,517 scale.pkl successfully downloaded
+2023-11-29 21:09:52,526 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:09:56,845 Ridge model successfully trained
+2023-11-29 21:09:56,846 model.pkl successfully downloaded
+2023-11-29 21:10:33,713 CSV prediction started
+2023-11-29 21:10:33,714 Invalid file path or buffer object type: <class 'method'>
+2023-11-29 21:10:54,613 CSV prediction started
+2023-11-29 21:10:54,614 Invalid file path or buffer object type: <class 'method'>
+2023-11-29 21:12:32,785 Train data successfully parsed
+2023-11-29 21:12:32,875 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:12:32,880 Train data successfully scaled w StandardScaler
+2023-11-29 21:12:32,882 transformer.pkl successfully downloaded
+2023-11-29 21:12:32,882 scale.pkl successfully downloaded
+2023-11-29 21:12:32,891 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:12:37,119 Ridge model successfully trained
+2023-11-29 21:12:37,121 model.pkl successfully downloaded
+2023-11-29 21:12:41,271 CSV prediction started
+2023-11-29 21:12:41,271 Expected file path name or file-like object, got <class 'bytes'> type
+2023-11-29 21:16:44,975 Train data successfully parsed
+2023-11-29 21:16:45,067 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:16:45,072 Train data successfully scaled w StandardScaler
+2023-11-29 21:16:45,073 transformer.pkl successfully downloaded
+2023-11-29 21:16:45,074 scale.pkl successfully downloaded
+2023-11-29 21:16:45,082 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:16:49,582 Ridge model successfully trained
+2023-11-29 21:16:49,583 model.pkl successfully downloaded
+2023-11-29 21:17:29,053 CSV prediction started
+2023-11-29 21:17:29,090 catching classes that do not inherit from BaseException is not allowed
+2023-11-29 21:20:50,959 Train data successfully parsed
+2023-11-29 21:20:51,065 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:20:51,071 Train data successfully scaled w StandardScaler
+2023-11-29 21:20:51,073 transformer.pkl successfully downloaded
+2023-11-29 21:20:51,073 scale.pkl successfully downloaded
+2023-11-29 21:20:51,083 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:20:56,048 Ridge model successfully trained
+2023-11-29 21:20:56,049 model.pkl successfully downloaded
+2023-11-29 21:21:06,238 CSV prediction started
+2023-11-29 21:21:06,276 catching classes that do not inherit from BaseException is not allowed
+2023-11-29 21:22:16,188 Train data successfully parsed
+2023-11-29 21:22:16,292 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:22:16,298 Train data successfully scaled w StandardScaler
+2023-11-29 21:22:16,300 transformer.pkl successfully downloaded
+2023-11-29 21:22:16,301 scale.pkl successfully downloaded
+2023-11-29 21:22:16,311 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:22:21,026 Ridge model successfully trained
+2023-11-29 21:22:21,027 model.pkl successfully downloaded
+2023-11-29 21:22:27,663 CSV prediction started
+2023-11-29 21:22:27,681 catching classes that do not inherit from BaseException is not allowed
+2023-11-29 21:23:35,135 Train data successfully parsed
+2023-11-29 21:23:35,229 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:23:35,234 Train data successfully scaled w StandardScaler
+2023-11-29 21:23:35,235 transformer.pkl successfully downloaded
+2023-11-29 21:23:35,236 scale.pkl successfully downloaded
+2023-11-29 21:23:35,245 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:23:39,878 Ridge model successfully trained
+2023-11-29 21:23:39,879 model.pkl successfully downloaded
+2023-11-29 21:23:42,796 CSV prediction started
+2023-11-29 21:23:42,824 catching classes that do not inherit from BaseException is not allowed
+2023-11-29 21:25:11,223 Train data successfully parsed
+2023-11-29 21:25:11,324 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:25:11,329 Train data successfully scaled w StandardScaler
+2023-11-29 21:25:11,331 transformer.pkl successfully downloaded
+2023-11-29 21:25:11,332 scale.pkl successfully downloaded
+2023-11-29 21:25:11,341 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:25:16,099 Ridge model successfully trained
+2023-11-29 21:25:16,100 model.pkl successfully downloaded
+2023-11-29 21:25:23,148 CSV prediction started
+2023-11-29 21:25:23,176 catching classes that do not inherit from BaseException is not allowed
+2023-11-29 21:27:16,302 Train data successfully parsed
+2023-11-29 21:27:16,400 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:27:16,406 Train data successfully scaled w StandardScaler
+2023-11-29 21:27:16,407 transformer.pkl successfully downloaded
+2023-11-29 21:27:16,408 scale.pkl successfully downloaded
+2023-11-29 21:27:16,418 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:27:21,261 Ridge model successfully trained
+2023-11-29 21:27:21,262 model.pkl successfully downloaded
+2023-11-29 21:27:26,645 CSV prediction started
+2023-11-29 21:27:26,673 Cannot convert non-finite values (NA or inf) to integer
+2023-11-29 21:27:26,674 CSV prediction successfully completed
+2023-11-29 21:27:26,677 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:29:34,911 Train data successfully parsed
+2023-11-29 21:29:35,003 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:29:35,008 Train data successfully scaled w StandardScaler
+2023-11-29 21:29:35,010 transformer.pkl successfully downloaded
+2023-11-29 21:29:35,011 scale.pkl successfully downloaded
+2023-11-29 21:29:35,020 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:29:39,430 Ridge model successfully trained
+2023-11-29 21:29:39,431 model.pkl successfully downloaded
+2023-11-29 21:29:44,186 CSV prediction started
+2023-11-29 21:29:44,214 Cannot convert non-finite values (NA or inf) to integer
+2023-11-29 21:29:44,215 CSV prediction successfully completed
+2023-11-29 21:29:44,216 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:31:34,132 Train data successfully parsed
+2023-11-29 21:31:34,221 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:31:34,225 Train data successfully scaled w StandardScaler
+2023-11-29 21:31:34,227 transformer.pkl successfully downloaded
+2023-11-29 21:31:34,228 scale.pkl successfully downloaded
+2023-11-29 21:31:34,238 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:31:38,594 Ridge model successfully trained
+2023-11-29 21:31:38,595 model.pkl successfully downloaded
+2023-11-29 21:31:44,793 CSV prediction started
+2023-11-29 21:31:44,838 Cannot convert non-finite values (NA or inf) to integer
+2023-11-29 21:31:44,839 CSV prediction successfully completed
+2023-11-29 21:31:44,840 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:32:16,500 Train data successfully parsed
+2023-11-29 21:32:16,605 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:32:16,611 Train data successfully scaled w StandardScaler
+2023-11-29 21:32:16,613 transformer.pkl successfully downloaded
+2023-11-29 21:32:16,614 scale.pkl successfully downloaded
+2023-11-29 21:32:16,627 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:32:21,420 Ridge model successfully trained
+2023-11-29 21:32:21,422 model.pkl successfully downloaded
+2023-11-29 21:32:24,156 CSV prediction started
+2023-11-29 21:32:24,187 Cannot convert non-finite values (NA or inf) to integer
+2023-11-29 21:32:24,188 CSV prediction successfully completed
+2023-11-29 21:32:24,190 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:33:07,921 Train data successfully parsed
+2023-11-29 21:33:08,028 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:33:08,034 Train data successfully scaled w StandardScaler
+2023-11-29 21:33:08,036 transformer.pkl successfully downloaded
+2023-11-29 21:33:08,036 scale.pkl successfully downloaded
+2023-11-29 21:33:08,046 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:33:12,988 Ridge model successfully trained
+2023-11-29 21:33:12,989 model.pkl successfully downloaded
+2023-11-29 21:33:17,972 CSV prediction started
+2023-11-29 21:33:18,002 Cannot convert non-finite values (NA or inf) to integer
+2023-11-29 21:33:18,003 CSV prediction successfully completed
+2023-11-29 21:33:18,005 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:37:49,121 Train data successfully parsed
+2023-11-29 21:37:49,207 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:37:49,212 Train data successfully scaled w StandardScaler
+2023-11-29 21:37:49,213 transformer.pkl successfully downloaded
+2023-11-29 21:37:49,214 scale.pkl successfully downloaded
+2023-11-29 21:37:49,222 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:37:53,504 Ridge model successfully trained
+2023-11-29 21:37:53,505 model.pkl successfully downloaded
+2023-11-29 21:38:21,581 CSV prediction started
+2023-11-29 21:38:21,643 Cannot convert [['Renault KWID Climber 1.0 MT BSIV' 'Maruti Wagon R LXI'
+  'Hyundai i20 Asta 1.2' 'Hyundai i20 1.2 Asta'
+  'Skoda Octavia L and K 1.9 TDI MT' 'Maruti Ciaz ZXi'
+  'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Ecosport 1.5 DV5 MT Trend' 'Hyundai Verna 1.4 VTVT'
+  'Hyundai i20 Era 1.2' 'Mercedes-Benz S-Class S 350 CDI'
+  'Fiat Grande Punto 1.3 Dynamic (Diesel)' 'Maruti Ertiga VDI'
+  'Mahindra Bolero GLX' 'Ford Fiesta 1.4 SXi TDCi' 'Maruti SX4 Zxi BSIII'
+  'Ford Figo Petrol LXI' 'Tata Safari Storme EX' 'Maruti Swift VXI'
+  'Ford Fiesta Classic 1.4 Duratorq CLXI' 'Maruti Alto 800 LXI BSIV'
+  'BMW X4 M Sport X xDrive20d' 'Ford EcoSport 1.5 TDCi Titanium BSIV'
+  'Hyundai Verna 1.6 SX' 'Maruti Baleno Alpha 1.3' 'Mahindra Xylo D2'
+  'Honda CR-V 2.4 4WD AT' 'Mahindra TUV 300 mHAWK100 T8'
+  'Maruti Wagon R VXi BSII' 'Tata Manza Aura Quadrajet'
+  'Maruti Alto 800 LXI Anniversary Edition'
+  'Tata Indica Vista Aura Safire Anniversary Edition' 'Toyota Etios VX'
+  'Toyota Camry 2.5 Hybrid' 'Toyota Innova 2.5 G (Diesel) 8 Seater'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Honda WR-V i-DTEC S' 'Maruti Ritz LDi'
+  'Maruti Swift ZXI' 'Skoda Laura Ambiente 1.9 PD' 'Renault KWID RXT'
+  'Maruti 800 Std BSII' 'Tata Zest Revotron 1.2 XT'
+  'Tata Indica Vista Terra 1.4 TDI' 'Renault Duster 85PS Diesel RxL'
+  'Toyota Innova 2.5 E Diesel MS 8-seater' 'Honda City V MT'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Hyundai Xcent 1.2 VTVT SX Option'
+  'Maruti Wagon R LXI CNG' 'Mercedes-Benz GLA Class 200 CDI SPORT'
+  'Jeep Compass 1.4 Limited Plus BSIV'
+  'Ford EcoSport 1.5 TDCi Trend Plus BSIV' 'Toyota Fortuner 4x2 AT'
+  'Maruti Swift Dzire LDi' 'Mahindra Scorpio VLS AT 2.2 mHAWK'
+  'Chevrolet Sail Hatchback 1.2' 'Maruti Alto LXi'
+  'Toyota Yaris V CVT BSIV'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III White'
+  'Hyundai Grand i10 1.2 CRDi Asta' 'Honda City 1.5 S Inspire'
+  'Maruti Ritz VDi' 'Hyundai Verna CRDi 1.6 SX Option'
+  'Hyundai Grand i10 1.2 Kappa Asta' 'Maruti Wagon R LXI'
+  'Renault KWID RXT' 'BMW 6 Series GT 630d Luxury Line'
+  'Maruti Alto K10 LXI' 'Hyundai Santro Magna BSIV'
+  'Hyundai Verna 1.6 SX VTVT AT' 'Maruti Baleno Delta'
+  'Maruti Wagon R VXI' 'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Fiesta 1.5 TDCi Ambiente' 'Tata Indica V2 eXeta GLS'
+  'Jeep Compass 1.4 Limited' 'Maruti Ritz LXI'
+  'Chevrolet Aveo U-VA 1.2 LS' 'Renault Duster 85PS Diesel RxL Plus'
+  'Toyota Innova 2.5 G (Diesel) 7 Seater' 'Hyundai i20 1.4 CRDi Sportz'
+  'Hyundai i20 1.4 Sportz' 'Maruti Swift Dzire 1.2 Vxi BSIV'
+  'Maruti SX4 ZDI Leather' 'Hyundai EON Magna Plus' 'Maruti A-Star Vxi'
+  'Maruti Swift VDI BSIV' 'Maruti Alto 800 LXI'
+  'Maruti Eeco CNG 5 Seater AC BSIV' 'Mahindra KUV 100 D75 K8'
+  'Tata Tiago 1.05 Revotorq XE' 'Maruti 800 AC BSII'
+  'Hyundai Verna 1.6 SX'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III SILVER' 'Maruti Ertiga VDI'
+  'Toyota Innova 2.5 VX (Diesel) 7 Seater' 'Maruti Swift VDI'
+  'Maruti Swift AMT ZXI' 'Maruti S-Cross 2017-2020 Zeta DDiS 200 SH']
+ ['Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol'
+  'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel'
+  'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel']
+ ['Individual' 'Trustmark Dealer' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual' 'Dealer'
+  'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Dealer' 'Dealer'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Trustmark Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Individual' 'Individual' 'Individual' 'Dealer'
+  'Dealer' 'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual']
+ ['Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Automatic' 'Manual' 'Automatic' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Automatic' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Automatic' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Automatic' 'Manual']
+ ['First Owner' 'First Owner' 'First Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'Third Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'Third Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'Fourth & Above Owner' 'Second Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'Second Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'Fourth & Above Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Fourth & Above Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Third Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'First Owner']] to numeric
+2023-11-29 21:38:21,644 CSV prediction successfully completed
+2023-11-29 21:38:21,646 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:39:42,294 Train data successfully parsed
+2023-11-29 21:39:42,390 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:39:42,397 Train data successfully scaled w StandardScaler
+2023-11-29 21:39:42,399 transformer.pkl successfully downloaded
+2023-11-29 21:39:42,399 scale.pkl successfully downloaded
+2023-11-29 21:39:42,408 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:39:47,028 Ridge model successfully trained
+2023-11-29 21:39:47,029 model.pkl successfully downloaded
+2023-11-29 21:39:51,043 CSV prediction started
+2023-11-29 21:39:51,072 Cannot convert [['Renault KWID Climber 1.0 MT BSIV' 'Maruti Wagon R LXI'
+  'Hyundai i20 Asta 1.2' 'Hyundai i20 1.2 Asta'
+  'Skoda Octavia L and K 1.9 TDI MT' 'Maruti Ciaz ZXi'
+  'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Ecosport 1.5 DV5 MT Trend' 'Hyundai Verna 1.4 VTVT'
+  'Hyundai i20 Era 1.2' 'Mercedes-Benz S-Class S 350 CDI'
+  'Fiat Grande Punto 1.3 Dynamic (Diesel)' 'Maruti Ertiga VDI'
+  'Mahindra Bolero GLX' 'Ford Fiesta 1.4 SXi TDCi' 'Maruti SX4 Zxi BSIII'
+  'Ford Figo Petrol LXI' 'Tata Safari Storme EX' 'Maruti Swift VXI'
+  'Ford Fiesta Classic 1.4 Duratorq CLXI' 'Maruti Alto 800 LXI BSIV'
+  'BMW X4 M Sport X xDrive20d' 'Ford EcoSport 1.5 TDCi Titanium BSIV'
+  'Hyundai Verna 1.6 SX' 'Maruti Baleno Alpha 1.3' 'Mahindra Xylo D2'
+  'Honda CR-V 2.4 4WD AT' 'Mahindra TUV 300 mHAWK100 T8'
+  'Maruti Wagon R VXi BSII' 'Tata Manza Aura Quadrajet'
+  'Maruti Alto 800 LXI Anniversary Edition'
+  'Tata Indica Vista Aura Safire Anniversary Edition' 'Toyota Etios VX'
+  'Toyota Camry 2.5 Hybrid' 'Toyota Innova 2.5 G (Diesel) 8 Seater'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Honda WR-V i-DTEC S' 'Maruti Ritz LDi'
+  'Maruti Swift ZXI' 'Skoda Laura Ambiente 1.9 PD' 'Renault KWID RXT'
+  'Maruti 800 Std BSII' 'Tata Zest Revotron 1.2 XT'
+  'Tata Indica Vista Terra 1.4 TDI' 'Renault Duster 85PS Diesel RxL'
+  'Toyota Innova 2.5 E Diesel MS 8-seater' 'Honda City V MT'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Hyundai Xcent 1.2 VTVT SX Option'
+  'Maruti Wagon R LXI CNG' 'Mercedes-Benz GLA Class 200 CDI SPORT'
+  'Jeep Compass 1.4 Limited Plus BSIV'
+  'Ford EcoSport 1.5 TDCi Trend Plus BSIV' 'Toyota Fortuner 4x2 AT'
+  'Maruti Swift Dzire LDi' 'Mahindra Scorpio VLS AT 2.2 mHAWK'
+  'Chevrolet Sail Hatchback 1.2' 'Maruti Alto LXi'
+  'Toyota Yaris V CVT BSIV'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III White'
+  'Hyundai Grand i10 1.2 CRDi Asta' 'Honda City 1.5 S Inspire'
+  'Maruti Ritz VDi' 'Hyundai Verna CRDi 1.6 SX Option'
+  'Hyundai Grand i10 1.2 Kappa Asta' 'Maruti Wagon R LXI'
+  'Renault KWID RXT' 'BMW 6 Series GT 630d Luxury Line'
+  'Maruti Alto K10 LXI' 'Hyundai Santro Magna BSIV'
+  'Hyundai Verna 1.6 SX VTVT AT' 'Maruti Baleno Delta'
+  'Maruti Wagon R VXI' 'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Fiesta 1.5 TDCi Ambiente' 'Tata Indica V2 eXeta GLS'
+  'Jeep Compass 1.4 Limited' 'Maruti Ritz LXI'
+  'Chevrolet Aveo U-VA 1.2 LS' 'Renault Duster 85PS Diesel RxL Plus'
+  'Toyota Innova 2.5 G (Diesel) 7 Seater' 'Hyundai i20 1.4 CRDi Sportz'
+  'Hyundai i20 1.4 Sportz' 'Maruti Swift Dzire 1.2 Vxi BSIV'
+  'Maruti SX4 ZDI Leather' 'Hyundai EON Magna Plus' 'Maruti A-Star Vxi'
+  'Maruti Swift VDI BSIV' 'Maruti Alto 800 LXI'
+  'Maruti Eeco CNG 5 Seater AC BSIV' 'Mahindra KUV 100 D75 K8'
+  'Tata Tiago 1.05 Revotorq XE' 'Maruti 800 AC BSII'
+  'Hyundai Verna 1.6 SX'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III SILVER' 'Maruti Ertiga VDI'
+  'Toyota Innova 2.5 VX (Diesel) 7 Seater' 'Maruti Swift VDI'
+  'Maruti Swift AMT ZXI' 'Maruti S-Cross 2017-2020 Zeta DDiS 200 SH']
+ ['Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol'
+  'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel'
+  'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel']
+ ['Individual' 'Trustmark Dealer' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual' 'Dealer'
+  'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Dealer' 'Dealer'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Trustmark Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Individual' 'Individual' 'Individual' 'Dealer'
+  'Dealer' 'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual']
+ ['Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Automatic' 'Manual' 'Automatic' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Automatic' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Automatic' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Automatic' 'Manual']
+ ['First Owner' 'First Owner' 'First Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'Third Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'Third Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'Fourth & Above Owner' 'Second Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'Second Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'Fourth & Above Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Fourth & Above Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Third Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'First Owner']] to numeric
+2023-11-29 21:39:51,073 CSV prediction successfully completed
+2023-11-29 21:39:51,075 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:40:16,356 Train data successfully parsed
+2023-11-29 21:40:16,460 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:40:16,466 Train data successfully scaled w StandardScaler
+2023-11-29 21:40:16,467 transformer.pkl successfully downloaded
+2023-11-29 21:40:16,468 scale.pkl successfully downloaded
+2023-11-29 21:40:16,478 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:40:21,582 Ridge model successfully trained
+2023-11-29 21:40:21,584 model.pkl successfully downloaded
+2023-11-29 21:42:30,392 Train data successfully parsed
+2023-11-29 21:42:30,487 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:42:30,492 Train data successfully scaled w StandardScaler
+2023-11-29 21:42:30,494 transformer.pkl successfully downloaded
+2023-11-29 21:42:30,495 scale.pkl successfully downloaded
+2023-11-29 21:42:30,505 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:42:34,966 Ridge model successfully trained
+2023-11-29 21:42:34,967 model.pkl successfully downloaded
+2023-11-29 21:42:57,793 Train data successfully parsed
+2023-11-29 21:42:57,893 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:42:57,898 Train data successfully scaled w StandardScaler
+2023-11-29 21:42:57,899 transformer.pkl successfully downloaded
+2023-11-29 21:42:57,899 scale.pkl successfully downloaded
+2023-11-29 21:42:57,907 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:43:02,495 Ridge model successfully trained
+2023-11-29 21:43:02,496 model.pkl successfully downloaded
+2023-11-29 21:43:10,663 CSV prediction started
+2023-11-29 21:43:10,710 Cannot convert [['Renault KWID Climber 1.0 MT BSIV' 'Maruti Wagon R LXI'
+  'Hyundai i20 Asta 1.2' 'Hyundai i20 1.2 Asta'
+  'Skoda Octavia L and K 1.9 TDI MT' 'Maruti Ciaz ZXi'
+  'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Ecosport 1.5 DV5 MT Trend' 'Hyundai Verna 1.4 VTVT'
+  'Hyundai i20 Era 1.2' 'Mercedes-Benz S-Class S 350 CDI'
+  'Fiat Grande Punto 1.3 Dynamic (Diesel)' 'Maruti Ertiga VDI'
+  'Mahindra Bolero GLX' 'Ford Fiesta 1.4 SXi TDCi' 'Maruti SX4 Zxi BSIII'
+  'Ford Figo Petrol LXI' 'Tata Safari Storme EX' 'Maruti Swift VXI'
+  'Ford Fiesta Classic 1.4 Duratorq CLXI' 'Maruti Alto 800 LXI BSIV'
+  'BMW X4 M Sport X xDrive20d' 'Ford EcoSport 1.5 TDCi Titanium BSIV'
+  'Hyundai Verna 1.6 SX' 'Maruti Baleno Alpha 1.3' 'Mahindra Xylo D2'
+  'Honda CR-V 2.4 4WD AT' 'Mahindra TUV 300 mHAWK100 T8'
+  'Maruti Wagon R VXi BSII' 'Tata Manza Aura Quadrajet'
+  'Maruti Alto 800 LXI Anniversary Edition'
+  'Tata Indica Vista Aura Safire Anniversary Edition' 'Toyota Etios VX'
+  'Toyota Camry 2.5 Hybrid' 'Toyota Innova 2.5 G (Diesel) 8 Seater'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Honda WR-V i-DTEC S' 'Maruti Ritz LDi'
+  'Maruti Swift ZXI' 'Skoda Laura Ambiente 1.9 PD' 'Renault KWID RXT'
+  'Maruti 800 Std BSII' 'Tata Zest Revotron 1.2 XT'
+  'Tata Indica Vista Terra 1.4 TDI' 'Renault Duster 85PS Diesel RxL'
+  'Toyota Innova 2.5 E Diesel MS 8-seater' 'Honda City V MT'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Hyundai Xcent 1.2 VTVT SX Option'
+  'Maruti Wagon R LXI CNG' 'Mercedes-Benz GLA Class 200 CDI SPORT'
+  'Jeep Compass 1.4 Limited Plus BSIV'
+  'Ford EcoSport 1.5 TDCi Trend Plus BSIV' 'Toyota Fortuner 4x2 AT'
+  'Maruti Swift Dzire LDi' 'Mahindra Scorpio VLS AT 2.2 mHAWK'
+  'Chevrolet Sail Hatchback 1.2' 'Maruti Alto LXi'
+  'Toyota Yaris V CVT BSIV'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III White'
+  'Hyundai Grand i10 1.2 CRDi Asta' 'Honda City 1.5 S Inspire'
+  'Maruti Ritz VDi' 'Hyundai Verna CRDi 1.6 SX Option'
+  'Hyundai Grand i10 1.2 Kappa Asta' 'Maruti Wagon R LXI'
+  'Renault KWID RXT' 'BMW 6 Series GT 630d Luxury Line'
+  'Maruti Alto K10 LXI' 'Hyundai Santro Magna BSIV'
+  'Hyundai Verna 1.6 SX VTVT AT' 'Maruti Baleno Delta'
+  'Maruti Wagon R VXI' 'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Fiesta 1.5 TDCi Ambiente' 'Tata Indica V2 eXeta GLS'
+  'Jeep Compass 1.4 Limited' 'Maruti Ritz LXI'
+  'Chevrolet Aveo U-VA 1.2 LS' 'Renault Duster 85PS Diesel RxL Plus'
+  'Toyota Innova 2.5 G (Diesel) 7 Seater' 'Hyundai i20 1.4 CRDi Sportz'
+  'Hyundai i20 1.4 Sportz' 'Maruti Swift Dzire 1.2 Vxi BSIV'
+  'Maruti SX4 ZDI Leather' 'Hyundai EON Magna Plus' 'Maruti A-Star Vxi'
+  'Maruti Swift VDI BSIV' 'Maruti Alto 800 LXI'
+  'Maruti Eeco CNG 5 Seater AC BSIV' 'Mahindra KUV 100 D75 K8'
+  'Tata Tiago 1.05 Revotorq XE' 'Maruti 800 AC BSII'
+  'Hyundai Verna 1.6 SX'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III SILVER' 'Maruti Ertiga VDI'
+  'Toyota Innova 2.5 VX (Diesel) 7 Seater' 'Maruti Swift VDI'
+  'Maruti Swift AMT ZXI' 'Maruti S-Cross 2017-2020 Zeta DDiS 200 SH']
+ ['Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol'
+  'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel'
+  'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel']
+ ['Individual' 'Trustmark Dealer' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual' 'Dealer'
+  'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Dealer' 'Dealer'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Trustmark Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Individual' 'Individual' 'Individual' 'Dealer'
+  'Dealer' 'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual']
+ ['Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Automatic' 'Manual' 'Automatic' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Automatic' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Automatic' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Automatic' 'Manual']
+ ['First Owner' 'First Owner' 'First Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'Third Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'Third Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'Fourth & Above Owner' 'Second Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'Second Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'Fourth & Above Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Fourth & Above Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Third Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'First Owner']] to numeric
+2023-11-29 21:43:10,712 CSV prediction successfully completed
+2023-11-29 21:43:10,714 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:45:12,970 Train data successfully parsed
+2023-11-29 21:45:13,208 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:45:13,223 Train data successfully scaled w StandardScaler
+2023-11-29 21:45:13,227 transformer.pkl successfully downloaded
+2023-11-29 21:45:13,229 scale.pkl successfully downloaded
+2023-11-29 21:45:13,247 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:45:23,494 Ridge model successfully trained
+2023-11-29 21:45:23,496 model.pkl successfully downloaded
+2023-11-29 21:45:30,094 CSV prediction started
+2023-11-29 21:45:30,176 Cannot convert [['Renault KWID Climber 1.0 MT BSIV' 'Maruti Wagon R LXI'
+  'Hyundai i20 Asta 1.2' 'Hyundai i20 1.2 Asta'
+  'Skoda Octavia L and K 1.9 TDI MT' 'Maruti Ciaz ZXi'
+  'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Ecosport 1.5 DV5 MT Trend' 'Hyundai Verna 1.4 VTVT'
+  'Hyundai i20 Era 1.2' 'Mercedes-Benz S-Class S 350 CDI'
+  'Fiat Grande Punto 1.3 Dynamic (Diesel)' 'Maruti Ertiga VDI'
+  'Mahindra Bolero GLX' 'Ford Fiesta 1.4 SXi TDCi' 'Maruti SX4 Zxi BSIII'
+  'Ford Figo Petrol LXI' 'Tata Safari Storme EX' 'Maruti Swift VXI'
+  'Ford Fiesta Classic 1.4 Duratorq CLXI' 'Maruti Alto 800 LXI BSIV'
+  'BMW X4 M Sport X xDrive20d' 'Ford EcoSport 1.5 TDCi Titanium BSIV'
+  'Hyundai Verna 1.6 SX' 'Maruti Baleno Alpha 1.3' 'Mahindra Xylo D2'
+  'Honda CR-V 2.4 4WD AT' 'Mahindra TUV 300 mHAWK100 T8'
+  'Maruti Wagon R VXi BSII' 'Tata Manza Aura Quadrajet'
+  'Maruti Alto 800 LXI Anniversary Edition'
+  'Tata Indica Vista Aura Safire Anniversary Edition' 'Toyota Etios VX'
+  'Toyota Camry 2.5 Hybrid' 'Toyota Innova 2.5 G (Diesel) 8 Seater'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Honda WR-V i-DTEC S' 'Maruti Ritz LDi'
+  'Maruti Swift ZXI' 'Skoda Laura Ambiente 1.9 PD' 'Renault KWID RXT'
+  'Maruti 800 Std BSII' 'Tata Zest Revotron 1.2 XT'
+  'Tata Indica Vista Terra 1.4 TDI' 'Renault Duster 85PS Diesel RxL'
+  'Toyota Innova 2.5 E Diesel MS 8-seater' 'Honda City V MT'
+  'Hyundai i20 Sportz 1.4 CRDi' 'Hyundai Xcent 1.2 VTVT SX Option'
+  'Maruti Wagon R LXI CNG' 'Mercedes-Benz GLA Class 200 CDI SPORT'
+  'Jeep Compass 1.4 Limited Plus BSIV'
+  'Ford EcoSport 1.5 TDCi Trend Plus BSIV' 'Toyota Fortuner 4x2 AT'
+  'Maruti Swift Dzire LDi' 'Mahindra Scorpio VLS AT 2.2 mHAWK'
+  'Chevrolet Sail Hatchback 1.2' 'Maruti Alto LXi'
+  'Toyota Yaris V CVT BSIV'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III White'
+  'Hyundai Grand i10 1.2 CRDi Asta' 'Honda City 1.5 S Inspire'
+  'Maruti Ritz VDi' 'Hyundai Verna CRDi 1.6 SX Option'
+  'Hyundai Grand i10 1.2 Kappa Asta' 'Maruti Wagon R LXI'
+  'Renault KWID RXT' 'BMW 6 Series GT 630d Luxury Line'
+  'Maruti Alto K10 LXI' 'Hyundai Santro Magna BSIV'
+  'Hyundai Verna 1.6 SX VTVT AT' 'Maruti Baleno Delta'
+  'Maruti Wagon R VXI' 'Hyundai Grand i10 1.2 Kappa Magna BSIV'
+  'Ford Fiesta 1.5 TDCi Ambiente' 'Tata Indica V2 eXeta GLS'
+  'Jeep Compass 1.4 Limited' 'Maruti Ritz LXI'
+  'Chevrolet Aveo U-VA 1.2 LS' 'Renault Duster 85PS Diesel RxL Plus'
+  'Toyota Innova 2.5 G (Diesel) 7 Seater' 'Hyundai i20 1.4 CRDi Sportz'
+  'Hyundai i20 1.4 Sportz' 'Maruti Swift Dzire 1.2 Vxi BSIV'
+  'Maruti SX4 ZDI Leather' 'Hyundai EON Magna Plus' 'Maruti A-Star Vxi'
+  'Maruti Swift VDI BSIV' 'Maruti Alto 800 LXI'
+  'Maruti Eeco CNG 5 Seater AC BSIV' 'Mahindra KUV 100 D75 K8'
+  'Tata Tiago 1.05 Revotorq XE' 'Maruti 800 AC BSII'
+  'Hyundai Verna 1.6 SX'
+  'Mahindra Bolero 2011-2019 DI NON AC BS III SILVER' 'Maruti Ertiga VDI'
+  'Toyota Innova 2.5 VX (Diesel) 7 Seater' 'Maruti Swift VDI'
+  'Maruti Swift AMT ZXI' 'Maruti S-Cross 2017-2020 Zeta DDiS 200 SH']
+ ['Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol'
+  'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel'
+  'Petrol' 'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol'
+  'Petrol' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Petrol' 'Petrol' 'Diesel'
+  'Diesel' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Petrol' 'Petrol' 'Diesel'
+  'Petrol' 'CNG' 'Diesel' 'Diesel' 'Petrol' 'Diesel' 'Diesel' 'Diesel'
+  'Diesel' 'Diesel' 'Petrol' 'Diesel']
+ ['Individual' 'Trustmark Dealer' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual' 'Dealer'
+  'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Dealer' 'Dealer'
+  'Individual' 'Individual' 'Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Trustmark Dealer' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual' 'Individual' 'Individual'
+  'Trustmark Dealer' 'Individual' 'Individual' 'Individual' 'Dealer'
+  'Dealer' 'Individual' 'Individual' 'Individual' 'Dealer' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Individual'
+  'Individual' 'Individual' 'Individual' 'Individual' 'Trustmark Dealer'
+  'Individual' 'Dealer' 'Individual']
+ ['Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Automatic'
+  'Automatic' 'Manual' 'Automatic' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Automatic' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Automatic' 'Manual' 'Manual' 'Automatic' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Automatic' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual' 'Manual'
+  'Manual' 'Manual' 'Manual' 'Automatic' 'Manual']
+ ['First Owner' 'First Owner' 'First Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'Second Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'Third Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'Third Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'Fourth & Above Owner' 'Second Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Second Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'Second Owner' 'First Owner' 'Third Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'Second Owner' 'Third Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'First Owner' 'First Owner' 'Second Owner'
+  'Fourth & Above Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'First Owner' 'First Owner' 'Fourth & Above Owner' 'First Owner'
+  'First Owner' 'Second Owner' 'First Owner' 'First Owner' 'First Owner'
+  'First Owner' 'Third Owner' 'Second Owner' 'First Owner' 'Second Owner'
+  'Second Owner' 'First Owner' 'First Owner' 'First Owner']] to numeric
+2023-11-29 21:45:30,182 CSV prediction successfully completed
+2023-11-29 21:45:30,186 Expected 2D array, got scalar array instead:
+array=None.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2023-11-29 21:46:12,557 Train data successfully parsed
+2023-11-29 21:46:12,804 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:46:12,808 Train data successfully scaled w StandardScaler
+2023-11-29 21:46:12,814 transformer.pkl successfully downloaded
+2023-11-29 21:46:12,815 scale.pkl successfully downloaded
+2023-11-29 21:46:12,826 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:46:23,792 Ridge model successfully trained
+2023-11-29 21:46:23,795 model.pkl successfully downloaded
+2023-11-29 21:48:27,081 Train data successfully parsed
+2023-11-29 21:48:27,316 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:48:27,324 Train data successfully scaled w StandardScaler
+2023-11-29 21:48:27,324 transformer.pkl successfully downloaded
+2023-11-29 21:48:27,328 scale.pkl successfully downloaded
+2023-11-29 21:48:27,342 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:48:38,300 Ridge model successfully trained
+2023-11-29 21:48:38,303 model.pkl successfully downloaded
+2023-11-29 21:48:45,423 CSV prediction started
+2023-11-29 21:48:45,552 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:48:45,555 CSV prediction successfully completed
+2023-11-29 21:55:42,048 Train data successfully parsed
+2023-11-29 21:55:42,406 Train data successfully transformed w OneHotEncoder
+2023-11-29 21:55:42,421 Train data successfully scaled w StandardScaler
+2023-11-29 21:55:42,426 transformer.pkl successfully downloaded
+2023-11-29 21:55:42,428 scale.pkl successfully downloaded
+2023-11-29 21:55:42,454 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:55:57,703 Ridge model successfully trained
+2023-11-29 21:55:57,706 model.pkl successfully downloaded
+2023-11-29 21:56:06,723 CSV prediction started
+2023-11-29 21:56:06,786 Train data successfully transformed w PolynomialFeatures
+2023-11-29 21:56:06,787 CSV prediction successfully completed
+2023-11-29 22:00:38,715 Train data successfully parsed
+2023-11-29 22:00:38,996 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:00:39,016 Train data successfully scaled w StandardScaler
+2023-11-29 22:00:39,022 transformer.pkl successfully downloaded
+2023-11-29 22:00:39,024 scale.pkl successfully downloaded
+2023-11-29 22:00:39,054 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:00:52,083 Ridge model successfully trained
+2023-11-29 22:00:52,086 model.pkl successfully downloaded
+2023-11-29 22:01:00,997 Train data successfully parsed
+2023-11-29 22:01:01,217 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:01:01,222 Train data successfully scaled w StandardScaler
+2023-11-29 22:01:01,228 transformer.pkl successfully downloaded
+2023-11-29 22:01:01,229 scale.pkl successfully downloaded
+2023-11-29 22:01:01,247 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:01:13,038 Ridge model successfully trained
+2023-11-29 22:01:13,040 model.pkl successfully downloaded
+2023-11-29 22:01:32,528 Train data successfully parsed
+2023-11-29 22:01:32,978 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:01:32,998 Train data successfully scaled w StandardScaler
+2023-11-29 22:01:33,005 transformer.pkl successfully downloaded
+2023-11-29 22:01:33,009 scale.pkl successfully downloaded
+2023-11-29 22:01:33,045 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:01:49,069 Ridge model successfully trained
+2023-11-29 22:01:49,076 model.pkl successfully downloaded
+2023-11-29 22:01:49,123 CSV prediction started
+2023-11-29 22:01:49,251 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:01:49,319 CSV prediction successfully completed
+2023-11-29 22:02:58,998 Train data successfully parsed
+2023-11-29 22:02:59,145 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:02:59,151 Train data successfully scaled w StandardScaler
+2023-11-29 22:02:59,155 transformer.pkl successfully downloaded
+2023-11-29 22:02:59,156 scale.pkl successfully downloaded
+2023-11-29 22:02:59,166 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:03:09,851 Ridge model successfully trained
+2023-11-29 22:03:09,853 model.pkl successfully downloaded
+2023-11-29 22:03:17,434 CSV prediction started
+2023-11-29 22:03:17,478 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:03:17,480 CSV prediction successfully completed
+2023-11-29 22:08:42,008 Train data successfully parsed
+2023-11-29 22:08:42,244 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:08:42,256 Train data successfully scaled w StandardScaler
+2023-11-29 22:08:42,264 transformer.pkl successfully downloaded
+2023-11-29 22:08:42,266 scale.pkl successfully downloaded
+2023-11-29 22:08:42,291 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:08:53,207 Ridge model successfully trained
+2023-11-29 22:08:53,208 model.pkl successfully downloaded
+2023-11-29 22:09:52,871 CSV prediction started
+2023-11-29 22:09:52,939 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:09:52,939 CSV prediction successfully completed
+2023-11-29 22:12:47,418 Train data successfully parsed
+2023-11-29 22:12:47,665 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:12:47,680 Train data successfully scaled w StandardScaler
+2023-11-29 22:12:47,686 transformer.pkl successfully downloaded
+2023-11-29 22:12:47,690 scale.pkl successfully downloaded
+2023-11-29 22:12:47,717 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:13:00,784 Ridge model successfully trained
+2023-11-29 22:13:00,790 model.pkl successfully downloaded
+2023-11-29 22:13:07,654 Train data successfully parsed
+2023-11-29 22:13:07,834 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:13:07,840 Train data successfully scaled w StandardScaler
+2023-11-29 22:13:07,844 transformer.pkl successfully downloaded
+2023-11-29 22:13:07,844 scale.pkl successfully downloaded
+2023-11-29 22:13:07,855 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:13:20,042 Ridge model successfully trained
+2023-11-29 22:13:20,045 model.pkl successfully downloaded
+2023-11-29 22:13:37,843 Train data successfully parsed
+2023-11-29 22:13:38,168 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:13:38,184 Train data successfully scaled w StandardScaler
+2023-11-29 22:13:38,189 transformer.pkl successfully downloaded
+2023-11-29 22:13:38,191 scale.pkl successfully downloaded
+2023-11-29 22:13:38,225 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:13:50,673 Ridge model successfully trained
+2023-11-29 22:13:50,676 model.pkl successfully downloaded
+2023-11-29 22:13:59,317 Train data successfully parsed
+2023-11-29 22:13:59,561 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:13:59,573 Train data successfully scaled w StandardScaler
+2023-11-29 22:13:59,580 transformer.pkl successfully downloaded
+2023-11-29 22:13:59,581 scale.pkl successfully downloaded
+2023-11-29 22:13:59,600 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:14:10,503 Ridge model successfully trained
+2023-11-29 22:14:10,505 model.pkl successfully downloaded
+2023-11-29 22:15:27,569 CSV prediction started
+2023-11-29 22:15:27,668 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:15:27,670 CSV prediction successfully completed
+2023-11-29 22:17:22,186 Train data successfully parsed
+2023-11-29 22:17:22,425 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:17:22,440 Train data successfully scaled w StandardScaler
+2023-11-29 22:17:22,449 transformer.pkl successfully downloaded
+2023-11-29 22:17:22,452 scale.pkl successfully downloaded
+2023-11-29 22:17:22,496 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:17:36,387 Ridge model successfully trained
+2023-11-29 22:17:36,394 model.pkl successfully downloaded
+2023-11-29 22:17:36,451 CSV prediction started
+2023-11-29 22:17:36,633 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:17:36,671 CSV prediction successfully completed
+2023-11-29 22:18:40,097 Train data successfully parsed
+2023-11-29 22:18:40,266 Train data successfully transformed w OneHotEncoder
+2023-11-29 22:18:40,274 Train data successfully scaled w StandardScaler
+2023-11-29 22:18:40,274 transformer.pkl successfully downloaded
+2023-11-29 22:18:40,278 scale.pkl successfully downloaded
+2023-11-29 22:18:40,293 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:18:51,368 Ridge model successfully trained
+2023-11-29 22:18:51,369 model.pkl successfully downloaded
+2023-11-29 22:19:03,062 CSV prediction started
+2023-11-29 22:19:03,112 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:19:03,113 CSV prediction successfully completed
+2023-11-29 22:21:20,202 Single item prediction started
+2023-11-29 22:21:20,260 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:21:20,263 Single item prediction successfully completed
+2023-11-29 22:21:25,084 CSV prediction started
+2023-11-29 22:21:25,147 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:21:25,150 CSV prediction successfully completed
+2023-11-29 22:22:06,973 CSV prediction started
+2023-11-29 22:22:07,024 Train data successfully transformed w PolynomialFeatures
+2023-11-29 22:22:07,024 CSV prediction successfully completed
