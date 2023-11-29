@@ -100,13 +100,20 @@
 Выходные данные:\
 193593.49411537085
 
+**UPD**
+
+**Добавил метод для обработки CSV файлов**
+
 **Скрины**\
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/f53b7cc3-f47a-4433-9a15-32ca28514459)
 
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/03f238cc-1bd2-419b-9ce4-520add4699a2)
 
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/19e98c57-3720-45f5-abb4-bf9fffce38b4)
+
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/d50ffc67-1423-4275-9822-4cdf123ad2fb)
 
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/b38d5cc0-4138-4a3d-b69d-d2914d4b97fc)
 
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/6ca8df46-ec9e-43bb-94f3-91a42af8c87a)
 
