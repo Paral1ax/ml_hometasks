@@ -1,6 +1,8 @@
 # ml_hometasks
 ДЗ №1
 
+Файл с ноутбуком называется *HW1_Regression_with_inference (1)*
+
 Что было сделано:
 1. Сначала выборка была преобразована с помощью OneHotEncoder и в ноутбуке и в файле .py (Данные преобразования находятся в файле *transformer.pkl*)
 2. Затем я заскейлил фичи с помощью StandardScale и в ноутбуке и в файле .py (Данные скейлинга находятся в файле *scale.pkl*) 
@@ -102,5 +104,9 @@
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/f53b7cc3-f47a-4433-9a15-32ca28514459)
 
 ![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/03f238cc-1bd2-419b-9ce4-520add4699a2)
+
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/d50ffc67-1423-4275-9822-4cdf123ad2fb)
+
+![image](https://github.com/Paral1ax/ml_hometasks/assets/71229854/b38d5cc0-4138-4a3d-b69d-d2914d4b97fc)
 
 
