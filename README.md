@@ -1,3 +1,3 @@
 # ml hometasks
 Homework HSE ml projects 
-1. ДЗ 1 находится в ветке homework_1 
+Здесь находится notebook с ДЗ 2 по курсу ML
